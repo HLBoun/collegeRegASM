@@ -1,0 +1,3 @@
+﻿  Assembling collegeRegistration.asm...
+C:/Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  collegeRegistration.vcxproj -> C:\Users\Admin\source\repos\collegeRegistration\Debug\collegeRegistration.exe

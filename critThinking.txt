@@ -1,0 +1,29 @@
+critThinking.txt
+Name: Huthsady Legend Boun
+Professor: Grace A. Comp
+Class: CISP-2410-SVC ASM/Comp Org
+Date: 12 November 2025
+
+Requirements:
+  - Take example from 6.6.3.
+  - Refactor using CMP instead of .IF .ELSEIF etc.
+  - Prompt user for input values of:
+    a.) Grade Average
+    b.) Credits
+  - Credits has to be from range 1-30
+  - If entry is invalid, output error message
+  - Output outcome of evaluation ("student can/cannot register!")
+
+First Thoughts:
+  - This seems super easy
+  - Maybe I should make a flowchart of the original logic
+
+Steps:
+  0.) At the top of the paper goes my name with the date!
+  1.) Ask the user what their Grade average is.
+  2.) Ask the user what their credit(s) is.
+  3.) If the credit amount is invalid tell them to double-check.
+  4.) If the amount is valid, check for the Grade Average 
+  5.) If the Grade average is SUPER high they can automatically register.
+  6.) If the grade average is above 250 AND they have more than 16 credits, they can register.
+  7.) Anything else is automatically not allowed.
