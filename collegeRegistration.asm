@@ -1,3 +1,8 @@
+;collegeRegistration.asm
+;Name: Huthsady Legend Boun
+;Professor: Grace A. Comp
+;Class: ASM/Comp Org
+;Date: 12 November 25
 .386
 .model flat, stdcall
 .stack 4096
